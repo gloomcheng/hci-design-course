@@ -1,3 +1,4 @@
-# My Awesome Book
+# 關於本書
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+此份文件係虎尾科技大學 106 學年度第 2學期「人機介面設計」課程之課程講義，內容多取材自書籍、網路文章、影片等並註明出處。
+
